@@ -1,5 +1,7 @@
 # Company-wise LeetCode Tracker
 
+# [Live link](https://companywiseleetcode.netlify.app/)
+
 Next.js (App Router + TypeScript) app that:
 - Parses all CSV files from all company folders.
 - Deduplicates questions globally by title or link.
